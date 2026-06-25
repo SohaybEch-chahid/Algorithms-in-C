@@ -1,0 +1,48 @@
+# Compiled binaries
+
+*.out
+*.exe
+*.o
+*.a
+*.so
+
+# Debug files
+
+*.gdb
+*.dSYM/
+
+# Build directories
+
+build/
+bin/
+
+# Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# VS Code
+
+.vscode/
+
+# CLion
+
+.idea/
+cmake-build-*/
+
+# Code::Blocks
+
+*.layout
+*.depend
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
